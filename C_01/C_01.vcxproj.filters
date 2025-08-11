@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\Day_09">
       <UniqueIdentifier>{e6658611-1c33-4d18-91d9-864632cd9d5b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_11">
+      <UniqueIdentifier>{60a87d8b-02ab-4673-99e1-afa4e99344cd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hello.c">
@@ -122,6 +125,18 @@
     </ClCompile>
     <ClCompile Include="for문.c">
       <Filter>소스 파일\Day_09</Filter>
+    </ClCompile>
+    <ClCompile Include="배열.c">
+      <Filter>소스 파일\Day_11</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열입력받기.c">
+      <Filter>소스 파일\Day_11</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_s문자열입력.c">
+      <Filter>소스 파일\Day_11</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터.c">
+      <Filter>소스 파일\Day_11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
